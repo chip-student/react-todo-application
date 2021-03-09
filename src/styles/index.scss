@@ -1,4 +1,4 @@
-@import "~bootstrap/scss/bootstrap.scss";
+ @import "~bootstrap/scss/bootstrap.scss";
 
 /* 
 
@@ -11,3 +11,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+/* Style the close button */
+.input{
+    width: 70%;
+}
+
